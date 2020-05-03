@@ -1,0 +1,8 @@
+﻿  Main.cpp
+D:\KTMT&HN\bigInt\bigInt\Main.cpp(7,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  QInt.cpp
+D:\KTMT&HN\bigInt\bigInt\QInt.cpp(97,20): warning C4018: '<': signed/unsigned mismatch
+D:\KTMT&HN\bigInt\bigInt\QInt.cpp(172,20): warning C4018: '<': signed/unsigned mismatch
+D:\KTMT&HN\bigInt\bigInt\QInt.cpp(228,13): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  bigInt.vcxproj -> D:\KTMT&HN\bigInt\Debug\bigInt.exe

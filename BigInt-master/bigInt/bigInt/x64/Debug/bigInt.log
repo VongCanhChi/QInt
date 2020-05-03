@@ -1,0 +1,9 @@
+﻿  Main.cpp
+C:\Users\DELL\Desktop\BigInt-master\bigInt\bigInt\Main.cpp(7,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  QInt.cpp
+C:\Users\DELL\Desktop\BigInt-master\bigInt\bigInt\QInt.cpp(46,36): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\DELL\Desktop\BigInt-master\bigInt\bigInt\QInt.cpp(174,48): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\DELL\Desktop\BigInt-master\bigInt\bigInt\QInt.cpp(198,35): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\DELL\Desktop\BigInt-master\bigInt\bigInt\QInt.cpp(226,35): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  bigInt.vcxproj -> C:\Users\DELL\Desktop\BigInt-master\bigInt\x64\Debug\bigInt.exe
